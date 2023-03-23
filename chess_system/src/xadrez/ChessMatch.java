@@ -2,6 +2,8 @@ package xadrez;
 
 import tabuleiro.Board;
 import tabuleiro.Position;
+import xadrez.pecas.King;
+import xadrez.pecas.Rook;
 
 public class ChessMatch {
 		

@@ -1,6 +1,8 @@
-package xadrez;
+package xadrez.pecas;
 
 import tabuleiro.Board;
+import xadrez.ChessPiece;
+import xadrez.Color;
 
 public class King extends ChessPiece{
 
