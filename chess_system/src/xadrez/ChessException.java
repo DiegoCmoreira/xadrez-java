@@ -1,6 +1,8 @@
 package xadrez;
 
-public class ChessException extends RuntimeException{
+import tabuleiro.BoardingException;
+
+public class ChessException extends BoardingException{
 
 	private static final long serialVersionUID = 1L;
 
